@@ -1,0 +1,257 @@
+.a{
+    background-color: #82ccdd;
+    border: 1px solid black;
+    padding: 15px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.uno
+{
+    text-align: left;
+}
+   
+.d{
+    text-align: center;
+    border: 1px solid black;
+}
+
+.todo {
+    border: 1px solid black;
+    padding: 15px;;
+}
+.op {
+    border: 1px solid black;
+    padding: 5px 15px;
+    
+}
+
+.primero {
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+
+.segundo {
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+    float: right;
+}
+
+.nom {
+    text-align: center;
+}
+
+.op li {
+    list-style: none;
+    padding: 1px;
+    font: bold 14px verdana;
+    display: inline-block;
+    width: 15%;
+}
+.cuatro {
+    margin: 25px 25px;
+    width: 50%;
+    float: left;
+}
+
+.cinco {
+    margin: 25px 0px;
+    width: 46%;
+    float: left;
+    border: 1px solid black;
+    background-color: #48dbfb;
+}
+
+.d {
+    clear: both;
+    background-color: #34e7e4;
+}
+.img {
+    float: right;
+    width: 6%;
+    margin: -10px;
+
+}
+
+.img2 {
+    float: left;
+    width: 6%;
+    margin: -10px;
+}
+
+body {
+    background-color: #38ada9;
+}
+
+.color {
+    background-color: #34e7e4;
+}
+
+.b {
+    text-align: right;
+}
+
+.c {
+    text-align: right;
+}
+
+.p1{
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v1{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.p2 {
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v2{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.p3 {
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v3{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.p4 {
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v4{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.p5 {
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v5{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.p6 {
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v6{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.p7 {
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v7{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.p8 {
+    float: left;
+    width: 80%;
+    margin: 5px;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.v8{
+    float: left;
+    width: 30%;
+    margin: 5px;
+    border: 1px solid black;
+    padding: 20px;
+    background-color: #81ecec;
+}
+.mensaje{
+    width: 20%;
+    margin: 1px;
+    border: 1px solid black;
+    padding: 5px; 
+}
+.precio {
+    margin: 5px;
+    border: 1px solid black;
+    text-align: center;
+    padding: 10px;
+    background-color: burlywood;
+}
+
+.help {
+    margin: 5px;
+    border: 1px solid black;
+    padding: 50px;
+    background-color: #81ecec;
+    text-align: center;
+}
+.Facebook{
+    text-align: center;
+}
+.Instagram{
+    text-align: center;
+}
